@@ -11,6 +11,7 @@
             "email": "vigihdev@gmail.com"
         }
     ],
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {}
 }
