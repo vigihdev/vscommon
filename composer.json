@@ -1,0 +1,16 @@
+{
+    "name": "thrubus/vscommon",
+    "autoload": {
+        "psr-4": {
+            "Thrubus\\Vscommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dobrak",
+            "email": "vigihdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
