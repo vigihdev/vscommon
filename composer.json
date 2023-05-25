@@ -1,5 +1,5 @@
 {
-    "name": "thrubus/vscommon",
+    "name": "vigihdev/vscommon",
     "autoload": {
         "psr-4": {
             "Thrubus\\Vscommon\\": "src/"
